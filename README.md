@@ -1,4 +1,4 @@
-# Monocular-Visual-Odometry
+# 3D LiDAR pose-graph slam
 
 Keyframe based pose-graph 3D slam
 1. Estimate the transformation between laser scans with ICP
